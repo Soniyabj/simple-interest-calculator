@@ -1,6 +1,3 @@
 # Contributing
 
-All contributions are welcome:
-- Bug fixes
-- Improvements
-- Suggestions
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
