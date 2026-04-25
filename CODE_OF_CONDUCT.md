@@ -1,13 +1,20 @@
-# Code of Conduct
-
 ## Our Pledge
-We pledge to create a respectful environment.
+We pledge to make participation respectful and inclusive.
 
 ## Our Standards
-Be respectful and inclusive.
+Be respectful and constructive.
+
+## Enforcement Responsibilities
+Maintainers are responsible for enforcing rules.
+
+## Scope
+This applies within project spaces and public interactions.
 
 ## Enforcement
-Violations will be addressed.
+Violations may result in warnings or bans.
+
+## Enforcement Guidelines
+Actions will be fair and consistent.
 
 ## Attribution
-Based on Contributor Covenant.
+Adapted from Contributor Covenant.
